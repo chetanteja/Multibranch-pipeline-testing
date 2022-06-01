@@ -9,4 +9,4 @@ testing
 
 pr check
 
-testing for merge trigger
+testing for merge trigger check
